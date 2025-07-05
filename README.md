@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ Connect with me
 
-[![Telegram](https://img.shields.io/badge/N3cr0Sh3ll-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i3xui "Telegram")
+[![Telegram](https://img.shields.io/badge/N3cr0Sh3ll-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i1rui "Telegram")
 
 
 ## 🛠️ My favorite tools
