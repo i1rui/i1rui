@@ -24,7 +24,6 @@
 ## 🙋‍♂️ Connect with me
 
 [![Telegram](https://img.shields.io/badge/N3cr0Sh3ll-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i3xui "Telegram")
-[![Twitter](https://img.shields.io/badge/-@i9xid-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/N3cr0Sh3ll)](https://twitter.com/i9xid "Twitter")
 
 
 ## 🛠️ My favorite tools
