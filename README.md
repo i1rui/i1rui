@@ -1,14 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to <a href="https://iGeek.io" target="_blank">N3cr0Sh3ll</a>
-</h1>
-
-
-<p align="center">
-  <a href="https://myanimelist.net/anime/9253/Steins_Gate" target="_blank">
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Steins Gate" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to N3cr0Sh3ll
+  <a href="https://iGeek.io" target="_blank">
   </a>
-</p>
-
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Red+Team+Operator;Malware+Developer;Web+Pentester;CTF+Player;Living+in+Shadows..." />
