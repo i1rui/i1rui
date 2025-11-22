@@ -42,7 +42,7 @@
 ## ✉️ Contact
 <p align="center">
   <a href="https://t.me/i1rui" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-N3cr0Sh3ll-2CA5E0?style=for-the-badge&logo=telegram" alt="tg"/>
+    <img src="https://img.shields.io/badge/Telegram-0xN3uRex-2CA5E0?style=for-the-badge&logo=telegram" alt="tg"/>
   </a>
 </p>
 
