@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./assets/hero.gif" width="48" alt="hero" />
-  <span style="font-family: 'Fira Code', monospace;color:#39FF14">rdx0</span>
+  <span style="font-family: 'Fira Code', monospace;color:#39FF14">0xN3uRex</span>
 </h1>
 
 <p align="center">
