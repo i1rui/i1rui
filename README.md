@@ -1,51 +1,141 @@
-<h1 align="center">
-  <img src="./assets/hero.gif" width="48" alt="hero" />
-  <span style="font-family: 'Fira Code', monospace;color:#39FF14">N3ur0d!</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Red+Team+Operator;Binary+%7C+Reverse+Engineering;Web+Pentester;CTF+Player" alt="typing"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,40:0d0000,100:080808&height=180&text=N3UR0D&fontSize=72&fontColor=e02020&fontAlignY=55&desc=Malware%20Developer%20%E2%80%A2%20Offensive%20Security%20Engineer&descSize=13&descAlignY=80&descColor=555555&stroke=8b0000&strokeWidth=1" />
 
----
+</div>
 
-## 🔧 Tools & Stack
-<p align="center">
-  <!-- Core OS / Distros -->
-  <img src="https://img.shields.io/badge/BlackArch-black?style=for-the-badge&logo=linux" alt="BlackArch"/>
-  <img src="https://img.shields.io/badge/Kali-Linux-1B2430?style=for-the-badge" alt="Kali"/>
+<div align="center">
 
-  <!-- Recon & Networking -->
-  <img src="https://img.shields.io/badge/nmap-scanner-FF6B6B?style=for-the-badge" alt="nmap"/>
-  <img src="https://img.shields.io/badge/Burp-Suite-FF7A59?style=for-the-badge" alt="Burp"/>
+```
+  UID=1337 · GID=red-team · THM=Top3% · CERT=CRTOM
+```
 
-  <!-- RE & Binaries -->
-  <img src="https://img.shields.io/badge/IDA-Pro-2A2A2A?style=for-the-badge" alt="IDA"/>
-  <img src="https://img.shields.io/badge/x64dbg-debugger-00AEEF?style=for-the-badge" alt="x64dbg"/>
-  <img src="https://img.shields.io/badge/BinaryNinja-analysis-7B61FF?style=for-the-badge" alt="Binary Ninja"/>
-  <img src="https://img.shields.io/badge/Ghidra-reversing-6CC644?style=for-the-badge" alt="Ghidra"/>
-</p>
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe%20·%20N3ur0d-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/N3ur0d)&nbsp;
+[![Top 3%](https://img.shields.io/badge/-Top%203%25-8b0000?style=flat-square&logo=tryhackme&logoColor=ff4444)](https://tryhackme.com/p/N3ur0d)&nbsp;
+[![CRTOM](https://img.shields.io/badge/-CRTOM%20Certified-0d0d0d?style=flat-square&logo=hackthebox&logoColor=e02020)]()&nbsp;
+[![Telegram](https://img.shields.io/badge/-0xN3uRex-0d0d0d?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/i1rui)&nbsp;
+[![GitHub](https://img.shields.io/badge/-i1rui-0d0d0d?style=flat-square&logo=github&logoColor=888)](https://github.com/i1rui)
 
----
+</div>
 
-## 🧰 Other fav tools
-<p align="center">
-  <img src="https://img.shields.io/badge/radare2-RE-dark?style=for-the-badge" alt="radare2"/>
-  <img src="https://img.shields.io/badge/pwntools-EXPLOIT-4D99FF?style=for-the-badge" alt="pwntools"/>
-  <img src="https://img.shields.io/badge/Metasploit-Framework-473B7B?style=for-the-badge" alt="msf"/>
-  <img src="https://img.shields.io/badge/VMware-virtual-607078?style=for-the-badge" alt="vm"/>
-  <img src="https://img.shields.io/badge/Docker-containers-2496ED?style=for-the-badge" alt="docker"/>
-</p>
+<br/>
 
----
+```python
+class N3ur0d:
+    role      = [ "Malware Developer", "Offensive Security Engineer" ]
+    certs     = [ "CRTOM" ]
+    targets   = [ "OSCP", "CRTO" ]
+    community = "GDG On Campus — Cybersecurity Head"
+    thm_rank  = "Top 3%"
+    focus     = {
+        "primary"   : [ "Exploit Dev", "Malware Dev", "Reverse Engineering"    ],
+        "secondary" : [ "Red Team Ops", "Heap Exploitation", "AI Sec Automation" ],
+        "ctf"       : [ "Pwn", "Web", "Crypto", "Forensics", "OSINT"           ]
+    }
+    motto = "Breaking things to understand them at the lowest level."
+```
 
-## ✉️ Contact
-<p align="center">
-  <a href="https://t.me/i1rui" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0xN3uRex-2CA5E0?style=for-the-badge&logo=telegram" alt="tg"/>
-  </a>
-</p>
+<br/>
 
 ---
 
-<p align="center"><i style="color:gray">"Control in silence. Power in precision."</i></p>
+<details open>
+<summary><b>◈ &nbsp;/proc/skills</b></summary>
+<br/>
+
+<div align="center">
+
+| &nbsp; | Domain | Stack |
+|:---:|:---|:---|
+| 🔴 | **Red Team · Offensive** | `Exploit Dev` `Post-Exploitation` `C2 Frameworks` `Lateral Movement` |
+| 💀 | **Malware Development** | `Windows Internals` `Process Injection` `AV Evasion` `Shellcode` |
+| 🔬 | **Reverse Engineering** | `x86/x64 ASM` `IDA Pro` `Ghidra` `x64dbg` `Binary Ninja` |
+| 💥 | **Binary Exploitation** | `Buffer Overflow` `ROP Chains` `Heap Exploitation` `tcache Poisoning` |
+| 🌐 | **Web Exploitation** | `SSRF` `IDOR` `CSRF` `AiTM` `Auth Bypass` `ZTNA` |
+| ⚙️ | **Languages** | `C` `C++` `Python` `Bash` `PowerShell` `x86 ASM` |
+| 🤖 | **AI Security Automation** | `LangChain` `CrewAI` `n8n` `LangGraph` |
+
+</div>
+</details>
+
+---
+
+<details open>
+<summary><b>◈ &nbsp;ls -la toolbox/</b></summary>
+<br/>
+
+<div align="center">
+
+![Kali](https://img.shields.io/badge/Kali_Linux-1B2430?style=flat-square&logo=kalilinux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-0d0d0d?style=flat-square&logo=linux&logoColor=ccc)
+![pwntools](https://img.shields.io/badge/pwntools-4D99FF?style=flat-square)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-2A2A2A?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-6CC644?style=flat-square)
+![x64dbg](https://img.shields.io/badge/x64dbg-00AEEF?style=flat-square)
+![BinaryNinja](https://img.shields.io/badge/Binary_Ninja-7B61FF?style=flat-square)
+![radare2](https://img.shields.io/badge/radare2-333?style=flat-square)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF7A59?style=flat-square)
+![Nmap](https://img.shields.io/badge/nmap-555?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-473B7B?style=flat-square)
+![Impacket](https://img.shields.io/badge/Impacket-222?style=flat-square)
+![GDB](https://img.shields.io/badge/GDB_PEDA-red?style=flat-square)
+![Flipper](https://img.shields.io/badge/Flipper_Zero-e07020?style=flat-square)
+![HackRF](https://img.shields.io/badge/HackRF-cc2222?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+</div>
+</details>
+
+---
+
+<details open>
+<summary><b>◈ &nbsp;cat roadmap.md</b></summary>
+<br/>
+
+```
+  PHASE 00 ████████████████████  x86/x64 Assembly + C/C++ Foundations    ✓ DONE
+  PHASE 01 ████████████████████  Binary Exploitation — BOF · ROP · Heap   ✓ DONE
+  PHASE 02 ████████████████████  Red Team Operations — CRTOM Certified    ✓ DONE
+  PHASE 03 █████████████░░░░░░░  Advanced Malware Dev + AV Evasion        ▶ ACTIVE
+  PHASE 04 ░░░░░░░░░░░░░░░░░░░░  OSCP / CRTO                              ○ NEXT
+  PHASE 05 ░░░░░░░░░░░░░░░░░░░░  Full Spectrum Offensive Operator         ⬡ LOCKED
+```
+
+</details>
+
+---
+
+<details open>
+<summary><b>◈ &nbsp;./stats --fetch</b></summary>
+<br/>
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=i1rui&show_icons=true&hide_border=true&bg_color=080808&title_color=e02020&icon_color=8b0000&text_color=888888&count_private=true&ring_color=8b0000"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1rui&layout=compact&hide_border=true&bg_color=080808&title_color=e02020&text_color=888888"/>
+
+</div>
+
+<div align="center">
+
+[![streak](https://streak-stats.demolab.com?user=i1rui&theme=dark&hide_border=true&background=080808&ring=e02020&fire=8b0000&currStreakLabel=e02020&sideLabels=555&dates=333&stroke=1e1e1e)](https://git.io/streak-stats)
+
+</div>
+</details>
+
+---
+
+<div align="center">
+
+```
+╔─────────────────────────────────────────────────────────────╗
+│   "Control in silence. Power in precision."                 │
+│                                          — N3UR0D · i1rui   │
+╚─────────────────────────────────────────────────────────────╝
+```
+
+![views](https://komarev.com/ghpvc/?username=i1rui&color=8b0000&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
