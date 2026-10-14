@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,40:0d0000,100:080808&height=180&text=N3UR0D&fontSize=72&fontColor=e02020&fontAlignY=55&desc=Malware%20Developer%20%E2%80%A2%20Offensive%20Security%20Engineer&descSize=13&descAlignY=80&descColor=555555&stroke=8b0000&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,40:0d0000,100:080808&height=180&text=Anub8te&fontSize=72&fontColor=e02020&fontAlignY=55&desc=Malware%20Developer%20%E2%80%A2%20Offensive%20Security%20Engineer&descSize=13&descAlignY=80&descColor=555555&stroke=8b0000&strokeWidth=1" />
 
 </div>
 
@@ -13,7 +13,7 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe%20·%20N3ur0d-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/N3ur0d)&nbsp;
 [![Top 3%](https://img.shields.io/badge/-Top%203%25-8b0000?style=flat-square&logo=tryhackme&logoColor=ff4444)](https://tryhackme.com/p/N3ur0d)&nbsp;
 [![CRTOM](https://img.shields.io/badge/-CRTOM%20Certified-0d0d0d?style=flat-square&logo=hackthebox&logoColor=e02020)]()&nbsp;
-[![Telegram](https://img.shields.io/badge/-0xN3uRex-0d0d0d?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/i1rui)&nbsp;
+[![Telegram](https://img.shields.io/badge/-Anub8te-0d0d0d?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/i1rui)&nbsp;
 [![GitHub](https://img.shields.io/badge/-i1rui-0d0d0d?style=flat-square&logo=github&logoColor=888)](https://github.com/i1rui)
 
 </div>
@@ -21,7 +21,7 @@
 <br/>
 
 ```python
-class N3ur0d:
+class Anub8te:
     role      = [ "Malware Developer", "Offensive Security Engineer" ]
     certs     = [ "CRTOM" ]
     targets   = [ "OSCP", "CRTO" ]
@@ -132,10 +132,10 @@ class N3ur0d:
 ```
 ╔─────────────────────────────────────────────────────────────╗
 │   "Control in silence. Power in precision."                 │
-│                                          — N3UR0D · i1rui   │
+│                                          — Anub8te · i1rui   │
 ╚─────────────────────────────────────────────────────────────╝
 ```
 
-![views](https://komarev.com/ghpvc/?username=i1rui&color=8b0000&style=flat-square&label=PROFILE+VIEWS)
+![views](https://komarev.com/ghpvc/i1rui=i1rui&color=8b0000&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
