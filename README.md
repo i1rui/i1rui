@@ -135,7 +135,3 @@ class Anub8te:
 │                                          — Anub8te · i1rui   │
 ╚─────────────────────────────────────────────────────────────╝
 ```
-
-![views](https://komarev.com/ghpvc/i1rui=i1rui&color=8b0000&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
